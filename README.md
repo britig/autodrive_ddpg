@@ -21,3 +21,12 @@ Based on [Kendall, et. al. 2018](1).
 ```
 python run_experiment.py
 ```
+
+## Version Requirement
+
+keras_rl==0.4.2
+Keras==2.2.4
+numpy==1.16.2
+tensorflow==1.14.2
+gym==0.12.1
+rl==3.0
